@@ -1,0 +1,5 @@
+
+Kv
+
+- lower Kv motor for bigger thrust
+- higher Kv motor for faster speed
