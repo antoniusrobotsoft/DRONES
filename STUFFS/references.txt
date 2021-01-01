@@ -1,1 +1,6 @@
 https://towardsdatascience.com/demystifying-drone-dynamics-ee98b1ba882f
+http://mikehamer.info/assets/papers/Crazyflie%20Modelling.pdf
+https://repository.upenn.edu/cgi/viewcontent.cgi?article=1705&context=edissertations
+https://andrew.gibiansky.com/downloads/pdf/Quadcopter%20Dynamics,%20Simulation,%20and%20Control.pdf
+http://www.sunshine2k.de/articles/RotationDerivation.pdf
+https://www.quora.com/How-do-you-derive-the-rotation-matrices
